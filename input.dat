@@ -1,0 +1,13 @@
+n  8
+lcell  30
+tcell  30
+lnuc  10
+tbuffer  5000
+airad  500
+maxcas  1000000
+maxbch  10
+e0  0.001
+r0  0.25
+emode  2
+cytob  2
+omp 1
